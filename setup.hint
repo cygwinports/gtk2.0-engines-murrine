@@ -1,0 +1,5 @@
+category: Gnome Xfce
+requires: libcairo2 libgdk_pixbuf2.0_0 libglib2.0_0 libgtk2.0_0 libpango1.0_0 libpixman1_0
+sdesc: "GTK2 Murrine theme engine"
+ldesc: "Murrine Engine is a Gtk2 engine that will make your desktop look 
+like a beautiful Murrina (which is the italian singular of Murrine)."
