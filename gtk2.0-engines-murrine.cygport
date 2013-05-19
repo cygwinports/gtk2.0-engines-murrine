@@ -1,0 +1,10 @@
+ORIG_PN="murrine"
+inherit gnome2
+
+NAME="gtk2.0-engines-murrine"
+VERSION=0.98.2
+RELEASE=1
+CATEGORY="GNOME Xfce"
+SUMMARY="GTK2 Murrine theme engine"
+DESCRIPTION="Murrine Engine is a Gtk2 engine that will make your desktop look
+like a beautiful Murrina (which is the italian singular of Murrine)."
